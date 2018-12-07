@@ -1,0 +1,7 @@
+op v1, v2, v2
+op v3, v1, v4
+op v1, v5, v5
+op v7, v3, v6
+op v1, v1, v1
+op v4, v6, v4
+op v7, v5, v6

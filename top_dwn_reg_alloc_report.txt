@@ -1,0 +1,11 @@
+Registers assigned for spilling = r4, r5 and r6
+Registers available for general purpose use: r1, r2, r3, 
+
+Variable Allocation baseed on most frequently used first: 
+variable v1 (frequency = 6) -> register r1
+variable v4 (frequency = 3) -> register r2
+variable v5 (frequency = 3) -> register r3
+variable v6 (frequency = 3) -> memory @v6
+variable v2 (frequency = 2) -> memory @v2
+variable v3 (frequency = 2) -> memory @v3
+variable v7 (frequency = 2) -> memory @v7
